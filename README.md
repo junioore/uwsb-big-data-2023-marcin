@@ -3,3 +3,4 @@ jestem na branchu DEV-kopia przed pull request
 Hello world!
 =======================
 jestem Marcin
+trochę klikam po zajęciach
